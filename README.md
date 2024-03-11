@@ -8,6 +8,6 @@
 
 - 📖 - Right now, I'm working through the Odin Project, forcing myself to completely re-learn everything I thought I knew about html, css, javascript, react, etc... The course has a lot of familiar content, but I'm learning so much every day.
 
-- 📫 - I'm very keen to hear from fellow students who are going through a similar process. I'm very open to discussing projects, reviewing each other's work, or anything else that wil help with my professional development. Feel free to get in touch on glenonholiday@yahoo.co.uk
+- 📫 - I'm very keen to hear from fellow students who are going through a similar process. I'm very open to discussing projects, reviewing each other's work, or anything else that wil help with my professional development. If this would interest you, feel free to get in touch by e-mail on glenonholiday@yahoo.co.uk.
 
 
