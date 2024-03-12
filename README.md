@@ -1,4 +1,4 @@
-### Hi there, my name is Glen Pearson and I develop under the name gtpWebDev
+### Hi, my name is Glen Pearson and I work under the name gtpWebDev
 
 - ❓ - After a long career in finance, I'm in the process of re-training to be a web developer. I'm expecting to focus on back-end, but I still have an open mind.
 
